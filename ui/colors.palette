@@ -668,6 +668,7 @@ premiumIconBg1: #f38926; // icon in premium settings gradient 1
 premiumIconBg2: #e44456; // icon in premium settings gradient 2
 premiumIconBg3: #4acd43; // icon in premium settings gradient 3
 
+banButtonBg: #ff0000; // Request join ban button color
 statisticsChartInactive: #e2eef999; // inactive area in footer of statistic charts
 statisticsChartActive: #baccd9d8; // sides in footer of statistic charts
 
